@@ -244,5 +244,56 @@ namespace Advent.Properties {
                 return ResourceManager.GetString("Year2020Day04", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to FBFFFFFLLL
+        ///FFBFFFFRRR
+        ///FFFBBBBLRL
+        ///FBFFBBFLLL
+        ///FFFBFBBLLL
+        ///FBFFFFBRLR
+        ///BFFBBFBLLL
+        ///FBFBFFBLLL
+        ///BFFFBBBRLL
+        ///FBFBBFBRLR
+        ///BFBFFFBRLR
+        ///FFFBBFFRLR
+        ///FFFFFBFRRR
+        ///FBFBBBFRRL
+        ///FBFBBFBRRR
+        ///FBFBBBFLRR
+        ///BBFFFBBRLL
+        ///FBBBBBFRLL
+        ///FBFFFFBLLR
+        ///FBFFFFFLRR
+        ///FBFBFFBLRR
+        ///FBFBFBBRRL
+        ///FFFFBFFRRL
+        ///FFFFBBFLRR
+        ///BFFBBFBRLR
+        ///BBFFFFFRLR
+        ///FFBFBBBRLL
+        ///FFBFBBBLRL
+        ///FBFFFBBLLL
+        ///FFFFBBFRLR
+        ///FBFBBFFLLR
+        ///FBBFFBFRLL
+        ///BFFFBFBLLR
+        ///FBFFBBBLLL
+        ///FFFFBBBLRR
+        ///FFBFFBFLLL
+        ///BFBFBFBRRL
+        ///BFBFFFBRRL
+        ///FBFBFBFLLL
+        ///FBBBBFFRRR
+        ///FBFFBFBRRR
+        ///BBFFFFFRRL
+        ///BFFFFFFL [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string Year2020Day05 {
+            get {
+                return ResourceManager.GetString("Year2020Day05", resourceCulture);
+            }
+        }
     }
 }
