@@ -295,5 +295,72 @@ namespace Advent.Properties {
                 return ResourceManager.GetString("Year2020Day05", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to nefaym
+        ///eynamf
+        ///eafnmy
+        ///afnmey
+        ///
+        ///zmd
+        ///alo
+        ///ekvrtpyuqi
+        ///hwmc
+        ///szgah
+        ///
+        ///y
+        ///mzqys
+        ///ycsq
+        ///yrtxvnkdglj
+        ///
+        ///egubpzyrhlojkixfn
+        ///hyifblockgenrzjxp
+        ///zxgbkohlpyfjinre
+        ///rzolbfihpkxnygje
+        ///
+        ///wvjoehlkxnyz
+        ///evwkobnhy
+        ///nerkyowgv
+        ///taypknsdovmuwice
+        ///qjvknewory
+        ///
+        ///ncypkuxsizla
+        ///ndjoiqhetrgmwfvb
+        ///
+        ///tfhnk
+        ///kmnftzh
+        ///hkntf
+        ///nftkh
+        ///
+        ///wj
+        ///w
+        ///w
+        ///wq
+        ///w
+        ///
+        ///jzaw
+        ///jzw
+        ///
+        ///gysdxblojkvnmr
+        ///khymldnxgtbvirj
+        ///bydgmxwjvrkfln
+        ///lykvumdnrxbjg
+        ///
+        ///xce
+        ///xec
+        ///xec
+        ///cex
+        ///
+        ///lacbwdzjofymieug
+        ///qpbhtnywsluirgjaxkfm
+        ///
+        ///orzpamlyckgwhjidnq
+        ///myeqhzijgkdoxwprcv [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string Year2020Day06 {
+            get {
+                return ResourceManager.GetString("Year2020Day06", resourceCulture);
+            }
+        }
     }
 }
