@@ -136,4 +136,13 @@
   <data name="Year2020Day06" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Year2020Day06.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
+  <data name="Year2020Day07" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Year2020Day07.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="Year2020Day07Test" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Year2020Day07Test.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="Year2020Day07Test2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Year2020Day07Test2.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
 </root>
