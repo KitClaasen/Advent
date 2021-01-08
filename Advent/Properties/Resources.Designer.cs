@@ -379,34 +379,66 @@ namespace Advent.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to light red bags contain 1 bright white bag, 2 muted yellow bags.
-        ///dark orange bags contain 3 bright white bags, 4 muted yellow bags.
-        ///bright white bags contain 1 shiny gold bag.
-        ///muted yellow bags contain 2 shiny gold bags, 9 faded blue bags.
-        ///shiny gold bags contain 1 dark olive bag, 2 vibrant plum bags.
-        ///dark olive bags contain 3 faded blue bags, 4 dotted black bags.
-        ///vibrant plum bags contain 5 faded blue bags, 6 dotted black bags.
-        ///faded blue bags contain no other bags.
-        ///dotted black bags contain no othe [rest of string was truncated]&quot;;.
+        ///   Looks up a localized string similar to jmp +27
+        ///acc +32
+        ///acc +10
+        ///acc +23
+        ///jmp +88
+        ///acc +46
+        ///acc -3
+        ///jmp +209
+        ///acc +1
+        ///jmp +159
+        ///acc +29
+        ///jmp +328
+        ///acc +44
+        ///jmp +14
+        ///acc +14
+        ///jmp +557
+        ///nop +127
+        ///acc +34
+        ///nop +227
+        ///jmp +214
+        ///jmp +512
+        ///jmp +78
+        ///jmp +544
+        ///acc +14
+        ///acc +5
+        ///acc -11
+        ///jmp +291
+        ///acc +5
+        ///nop +115
+        ///jmp +166
+        ///acc +2
+        ///jmp +1
+        ///jmp +500
+        ///jmp +244
+        ///jmp +186
+        ///acc +43
+        ///acc +26
+        ///jmp +502
+        ///acc +14
+        ///nop +63
+        ///jmp +115
+        ///acc -11
+        ///nop +153
+        ///acc +3
+        ///nop +107
+        ///jmp +468
+        ///acc -6
+        ///acc +38
+        ///acc +0
+        ///jmp +102
+        ///acc +27
+        ///acc -9
+        ///acc +45
+        ///jmp +186
+        ///nop +457
+        ///acc  [rest of string was truncated]&quot;;.
         /// </summary>
-        internal static string Year2020Day07Test {
+        internal static string Year2020Day08 {
             get {
-                return ResourceManager.GetString("Year2020Day07Test", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to shiny gold bags contain 2 dark red bags.
-        ///dark red bags contain 2 dark orange bags.
-        ///dark orange bags contain 2 dark yellow bags.
-        ///dark yellow bags contain 2 dark green bags.
-        ///dark green bags contain 2 dark blue bags.
-        ///dark blue bags contain 2 dark violet bags.
-        ///dark violet bags contain no other bags..
-        /// </summary>
-        internal static string Year2020Day07Test2 {
-            get {
-                return ResourceManager.GetString("Year2020Day07Test2", resourceCulture);
+                return ResourceManager.GetString("Year2020Day08", resourceCulture);
             }
         }
     }
