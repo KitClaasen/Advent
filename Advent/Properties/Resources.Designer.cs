@@ -688,5 +688,126 @@ namespace Advent.Properties {
                 return ResourceManager.GetString("Year2020Day11", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to F8
+        ///N2
+        ///F32
+        ///F17
+        ///E4
+        ///N4
+        ///R90
+        ///S2
+        ///R90
+        ///E3
+        ///L90
+        ///N5
+        ///E2
+        ///N2
+        ///W5
+        ///F78
+        ///L180
+        ///F19
+        ///R90
+        ///S1
+        ///E2
+        ///L180
+        ///E1
+        ///S5
+        ///E4
+        ///F62
+        ///R180
+        ///F16
+        ///S2
+        ///F8
+        ///R180
+        ///S1
+        ///L90
+        ///E4
+        ///R90
+        ///S3
+        ///E5
+        ///R180
+        ///F87
+        ///N2
+        ///E2
+        ///R90
+        ///N2
+        ///F2
+        ///R90
+        ///N5
+        ///W4
+        ///L90
+        ///F42
+        ///N1
+        ///F93
+        ///F87
+        ///E2
+        ///S4
+        ///F73
+        ///L270
+        ///S2
+        ///W3
+        ///F48
+        ///W5
+        ///L180
+        ///N1
+        ///F53
+        ///R90
+        ///S2
+        ///R90
+        ///N2
+        ///E2
+        ///S5
+        ///W3
+        ///R90
+        ///E2
+        ///R90
+        ///W1
+        ///L180
+        ///F29
+        ///W1
+        ///F56
+        ///R90
+        ///F34
+        ///F74
+        ///S1
+        ///R90
+        ///L90
+        ///W4
+        ///L90
+        ///W5
+        ///L90
+        ///W1
+        ///L90
+        ///N5
+        ///E2
+        ///S2
+        ///F58
+        ///N5
+        ///L90
+        ///S4
+        ///L90
+        ///R270
+        ///W4
+        ///S4
+        ///E3
+        ///R180
+        ///S4
+        ///W3
+        ///R90
+        ///F36
+        ///R90
+        ///W1
+        ///F73
+        ///S4
+        ///E1
+        ///L [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string Year2020Day12 {
+            get {
+                return ResourceManager.GetString("Year2020Day12", resourceCulture);
+            }
+        }
     }
 }
