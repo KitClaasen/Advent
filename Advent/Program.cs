@@ -7,8 +7,8 @@ namespace Advent
     {
         static void Main(string[] args)
         {
-            var day12 = new Day12();
-            day12.Solve();
+            var day13 = new Day13();
+            day13.Solve();
         }
     }
 }

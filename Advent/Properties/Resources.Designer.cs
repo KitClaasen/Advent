@@ -809,5 +809,15 @@ namespace Advent.Properties {
                 return ResourceManager.GetString("Year2020Day12", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 1007153
+        ///29,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,37,x,x,x,x,x,433,x,x,x,x,x,x,x,x,x,x,x,x,13,17,x,x,x,x,19,x,x,x,23,x,x,x,x,x,x,x,977,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,41.
+        /// </summary>
+        internal static string Year2020Day13 {
+            get {
+                return ResourceManager.GetString("Year2020Day13", resourceCulture);
+            }
+        }
     }
 }
